@@ -1,0 +1,6 @@
+framework module Pods_mohuTests {
+  umbrella header "Pods-mohuTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
